@@ -27,20 +27,20 @@ Business Management is a Windows Forms application developed using C# and .NET. 
 # Application Preview
 Main form.
 
-<img width="773" alt="Captură de ecran din 2024-09-22 la 15 50 48" src="https://github.com/user-attachments/assets/59e1e587-4860-4834-8a8c-37c93591a0a6">
+![image](https://github.com/user-attachments/assets/bf8554b0-275f-4283-a3f3-e991971f72cc)
 
 Products.
 
-<img width="691" alt="Captură de ecran din 2024-09-22 la 15 51 38" src="https://github.com/user-attachments/assets/b776bc07-88f7-44f8-8ecb-a22d4e1da33f">
+![image](https://github.com/user-attachments/assets/2c1e5e5c-961d-449a-bcbd-b2f0714bff4a)
 
 Gestiuni.
 
-<img width="691" alt="Captură de ecran din 2024-09-22 la 15 52 47" src="https://github.com/user-attachments/assets/42d262dd-2f18-42b8-8542-f2412e93c2ab">
+![image](https://github.com/user-attachments/assets/e80adc23-e037-4224-a99f-72faeb9fbf86)
 
-Partners.
+Partners and add form for partners.
 
-<img width="709" alt="Captură de ecran din 2024-09-22 la 15 53 34" src="https://github.com/user-attachments/assets/de03fa9e-de83-4ae2-872b-f40e4b8fa21c">
+![image](https://github.com/user-attachments/assets/40c1ee68-42a7-41e9-9966-1cfad73f8073)
 
 Stock entries.
 
-<img width="1040" alt="Captură de ecran din 2024-09-22 la 15 55 09" src="https://github.com/user-attachments/assets/ecc7b9df-beff-4376-9a1d-f8b4163247a4">
+![image](https://github.com/user-attachments/assets/ff3c90e6-f1b6-4d79-8965-2f9b59a6aaf4)
